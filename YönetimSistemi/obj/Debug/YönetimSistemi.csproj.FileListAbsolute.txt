@@ -1,0 +1,226 @@
+C:\Users\Akın\Desktop\YönetimSistemi\YönetimSistemi\YönetimSistemi\bin\Debug\YönetimSistemi.exe.config
+C:\Users\Akın\Desktop\YönetimSistemi\YönetimSistemi\YönetimSistemi\bin\Debug\YönetimSistemi.exe
+C:\Users\Akın\Desktop\YönetimSistemi\YönetimSistemi\YönetimSistemi\bin\Debug\YönetimSistemi.pdb
+C:\Users\Akın\Desktop\YönetimSistemi\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.AssemblyReference.cache
+C:\Users\Akın\Desktop\YönetimSistemi\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Form1.resources
+C:\Users\Akın\Desktop\YönetimSistemi\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Properties.Resources.resources
+C:\Users\Akın\Desktop\YönetimSistemi\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.GenerateResource.cache
+C:\Users\Akın\Desktop\YönetimSistemi\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Akın\Desktop\YönetimSistemi\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.exe
+C:\Users\Akın\Desktop\YönetimSistemi\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.pdb
+C:\Users\hp\Desktop\c# dosya\YönetimSistemi\YönetimSistemi\bin\Debug\YönetimSistemi.exe.config
+C:\Users\hp\Desktop\c# dosya\YönetimSistemi\YönetimSistemi\bin\Debug\YönetimSistemi.exe
+C:\Users\hp\Desktop\c# dosya\YönetimSistemi\YönetimSistemi\bin\Debug\YönetimSistemi.pdb
+C:\Users\hp\Desktop\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Form1.resources
+C:\Users\hp\Desktop\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Properties.Resources.resources
+C:\Users\hp\Desktop\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.exe
+C:\Users\hp\Desktop\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.pdb
+C:\Users\hp\Desktop\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Anasayfa.resources
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.exe
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.pdb
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\bin\Debug\YönetimSistemi.exe.config
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\bin\Debug\YönetimSistemi.exe
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\bin\Debug\YönetimSistemi.pdb
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\bin\Debug\EntityFramework.dll
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\bin\Debug\Yonetim_Sistemi_DAL.dll
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\bin\Debug\Yonetim_Sistemi_DAL.pdb
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\bin\Debug\Yonetim_Sistemi_DAL.dll.config
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\bin\Debug\EntityFramework.xml
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Anasayfa.resources
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.musteriler.resources
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.siparisler.resources
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.tedarikci.resources
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.urunler.resources
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.musteriler.siparisler.resources
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.musteriler.urunler.resources
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Form1.resources
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.departman.resources
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Kullanicilar.Kullanici.resources
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Musteriler.Musteriler.resources
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Properties.Resources.resources
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.pozisyon.resources
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.siparislercs.resources
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.Tedarikci.resources
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.Urunler.resources
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.yonetimcs.resources
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimS.8EF60CDA.Up2Date
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\bin\Debug\YönetimSistemi.exe.config
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\bin\Debug\YönetimSistemi.exe
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\bin\Debug\YönetimSistemi.pdb
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\bin\Debug\Yonetim_Sistemi_DAL.dll
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\bin\Debug\Yonetim_Sistemi_DAL.pdb
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\bin\Debug\Yonetim_Sistemi_DAL.dll.config
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Anasayfa.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Form1.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Properties.Resources.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.siparislercs.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.yonetimcs.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.CopyComplete
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.exe
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.pdb
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Kullanicilar.Kullanicics.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.departmancs.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.pozisyoncs.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.Tedarikcics.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.Urunlercs.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.musterilerbf.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.siparislerbf.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.tedarikcibf.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.urunlerbf.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.musteriler.siparislervd.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.musteriler.urunlervd.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.Calisanlarcs.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Musteriler.Customercs.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.SiparisE.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.MusteriE.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.TedarikciE.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.UrunE.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.musteriler.SiparisEklemeUrunler.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.CalisanAdd.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.DepartmanAdd.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.KullaniciAdd.resources
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.PozisyonAdd.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\YönetimSistemi.exe.config
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\YönetimSistemi.exe
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\YönetimSistemi.pdb
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\EntityFramework.dll
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\Yonetim_Sistemi_DAL.dll
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\Yonetim_Sistemi_DAL.pdb
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\Yonetim_Sistemi_DAL.dll.config
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\EntityFramework.xml
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.AssemblyReference.cache
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Anasayfa.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.MusteriE.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.Musterilerbf.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.SiparisE.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.siparislerbf.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.tedarikcibf.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.TedarikciE.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.UrunE.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.urunlerbf.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.musteriler.SiparisEklemeUrunler.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.musteriler.siparislervd.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.musteriler.urunlervd.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Form1.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.CalisanAdd.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.Calisanlarcs.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.DepartmanAdd.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.departmancs.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.KullaniciAdd.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Kullanicilar.Kullanicics.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Musteriler.Customercs.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Properties.Resources.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.PozisyonAdd.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.pozisyoncs.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.siparislercs.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.Tedarikcics.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.Urunlercs.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.yonetimcs.resources
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.GenerateResource.cache
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimS.8EF60CDA.Up2Date
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.exe
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.pdb
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\YönetimSistemi.exe.config
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\YönetimSistemi.exe
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\YönetimSistemi.pdb
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\EntityFramework.dll
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\Yonetim_Sistemi_DAL.dll
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\Yonetim_Sistemi_DAL.pdb
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\Yonetim_Sistemi_DAL.dll.config
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\EntityFramework.xml
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.AssemblyReference.cache
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Anasayfa.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.MusteriE.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.Musterilerbf.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.SiparisE.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.siparislerbf.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.tedarikcibf.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.TedarikciE.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.UrunE.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.urunlerbf.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.musteriler.SiparisEklemeUrunler.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.musteriler.siparislervd.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.musteriler.urunlervd.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Form1.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.CalisanAdd.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.Calisanlarcs.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.DepartmanAdd.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.departmancs.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.KullaniciAdd.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Kullanicilar.Kullanicics.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Musteriler.Customercs.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Properties.Resources.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.PozisyonAdd.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.pozisyoncs.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.siparislercs.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.Tedarikcics.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.Urunlercs.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.yonetimcs.resources
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.GenerateResource.cache
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimS.8EF60CDA.Up2Date
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.exe
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.pdb
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\YönetimSistemi.exe.config
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\YönetimSistemi.exe
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\YönetimSistemi.pdb
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\EntityFramework.dll
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\Yonetim_Sistemi_DAL.dll
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\Yonetim_Sistemi_DAL.pdb
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\Yonetim_Sistemi_DAL.dll.config
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\EntityFramework.xml
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.AssemblyReference.cache
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Anasayfa.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.MusteriE.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.Musterilerbf.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.SiparisE.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.siparislerbf.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.tedarikcibf.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.TedarikciE.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.UrunE.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.calisan.urunlerbf.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.musteriler.SiparisEklemeUrunler.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.musteriler.siparislervd.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.musteriler.urunlervd.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Form1.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.CalisanAdd.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.Calisanlarcs.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.DepartmanAdd.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.departmancs.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.KullaniciAdd.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Kullanicilar.Kullanicics.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Musteriler.Customercs.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Properties.Resources.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.PozisyonAdd.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.pozisyoncs.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.siparislercs.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.Tedarikcics.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.Urunlercs.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.Yonetim.yonetimcs.resources
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.GenerateResource.cache
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimS.8EF60CDA.Up2Date
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.exe
+C:\Users\Arda\Desktop\Yönetim Sistemi Uygulamamız\YönetimSistemi\Yonetim-Sistemi\YönetimSistemi\obj\Debug\YönetimSistemi.pdb

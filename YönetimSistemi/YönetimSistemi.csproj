@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{98D3D12D-403E-4412-962B-2CC26A034EA4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>YönetimSistemi</RootNamespace>
+    <AssemblyName>YönetimSistemi</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anasayfa.Designer.cs">
+      <DependentUpon>Anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calisan\MusteriE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calisan\MusteriE.Designer.cs">
+      <DependentUpon>MusteriE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calisan\Musterilerbf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calisan\Musterilerbf.Designer.cs">
+      <DependentUpon>Musterilerbf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calisan\SiparisE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calisan\SiparisE.Designer.cs">
+      <DependentUpon>SiparisE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calisan\siparislerbf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calisan\siparislerbf.Designer.cs">
+      <DependentUpon>siparislerbf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calisan\tedarikcibf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calisan\tedarikcibf.Designer.cs">
+      <DependentUpon>tedarikcibf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calisan\TedarikciE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calisan\TedarikciE.Designer.cs">
+      <DependentUpon>TedarikciE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calisan\UrunE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calisan\UrunE.Designer.cs">
+      <DependentUpon>UrunE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calisan\urunlerbf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calisan\urunlerbf.Designer.cs">
+      <DependentUpon>urunlerbf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="musteriler\SiparisEklemeUrunler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteriler\SiparisEklemeUrunler.Designer.cs">
+      <DependentUpon>SiparisEklemeUrunler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musteriler\siparislervd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteriler\siparislervd.Designer.cs">
+      <DependentUpon>siparislervd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musteriler\urunlervd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteriler\urunlervd.Designer.cs">
+      <DependentUpon>urunlervd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\CalisanAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yonetim\CalisanAdd.Designer.cs">
+      <DependentUpon>CalisanAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\Calisanlarcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yonetim\Calisanlarcs.Designer.cs">
+      <DependentUpon>Calisanlarcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\DepartmanAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yonetim\DepartmanAdd.Designer.cs">
+      <DependentUpon>DepartmanAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\departmancs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yonetim\departmancs.Designer.cs">
+      <DependentUpon>departmancs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\KullaniciAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yonetim\KullaniciAdd.Designer.cs">
+      <DependentUpon>KullaniciAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\Kullanicics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yonetim\Kullanicics.Designer.cs">
+      <DependentUpon>Kullanicics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\Customercs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yonetim\Customercs.Designer.cs">
+      <DependentUpon>Customercs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Yonetim\PozisyonAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yonetim\PozisyonAdd.Designer.cs">
+      <DependentUpon>PozisyonAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\pozisyoncs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yonetim\pozisyoncs.Designer.cs">
+      <DependentUpon>pozisyoncs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\siparislercs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yonetim\siparislercs.Designer.cs">
+      <DependentUpon>siparislercs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\Tedarikcics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yonetim\Tedarikcics.Designer.cs">
+      <DependentUpon>Tedarikcics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\Urunlercs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yonetim\Urunlercs.Designer.cs">
+      <DependentUpon>Urunlercs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\yonetimcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yonetim\yonetimcs.Designer.cs">
+      <DependentUpon>yonetimcs.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Anasayfa.resx">
+      <DependentUpon>Anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calisan\MusteriE.resx">
+      <DependentUpon>MusteriE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calisan\Musterilerbf.resx">
+      <DependentUpon>Musterilerbf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calisan\SiparisE.resx">
+      <DependentUpon>SiparisE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calisan\siparislerbf.resx">
+      <DependentUpon>siparislerbf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calisan\tedarikcibf.resx">
+      <DependentUpon>tedarikcibf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calisan\TedarikciE.resx">
+      <DependentUpon>TedarikciE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calisan\UrunE.resx">
+      <DependentUpon>UrunE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calisan\urunlerbf.resx">
+      <DependentUpon>urunlerbf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musteriler\SiparisEklemeUrunler.resx">
+      <DependentUpon>SiparisEklemeUrunler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musteriler\siparislervd.resx">
+      <DependentUpon>siparislervd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musteriler\urunlervd.resx">
+      <DependentUpon>urunlervd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yonetim\CalisanAdd.resx">
+      <DependentUpon>CalisanAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yonetim\Calisanlarcs.resx">
+      <DependentUpon>Calisanlarcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yonetim\DepartmanAdd.resx">
+      <DependentUpon>DepartmanAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yonetim\departmancs.resx">
+      <DependentUpon>departmancs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yonetim\KullaniciAdd.resx">
+      <DependentUpon>KullaniciAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yonetim\Kullanicics.resx">
+      <DependentUpon>Kullanicics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yonetim\Customercs.resx">
+      <DependentUpon>Customercs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Yonetim\PozisyonAdd.resx">
+      <DependentUpon>PozisyonAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yonetim\pozisyoncs.resx">
+      <DependentUpon>pozisyoncs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yonetim\siparislercs.resx">
+      <DependentUpon>siparislercs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yonetim\Tedarikcics.resx">
+      <DependentUpon>Tedarikcics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yonetim\Urunlercs.resx">
+      <DependentUpon>Urunlercs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yonetim\yonetimcs.resx">
+      <DependentUpon>yonetimcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-service-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Yonetim_Sistemi_DAL\Yonetim_Sistemi_DAL.csproj">
+      <Project>{a9c5802f-202e-4962-aa05-a358974334bd}</Project>
+      <Name>Yonetim_Sistemi_DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>

@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="deneme34Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Calisan">
+    <Key>
+      <PropertyRef Name="CalisanID" />
+    </Key>
+    <Property Name="CalisanID" Type="Int32" Nullable="false" />
+    <Property Name="Ad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Departman" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Kullanici" Relationship="Self.FK_Calisan_Kullanici" FromRole="Calisan" ToRole="Kullanici" />
+  </EntityType>
+  <EntityType Name="Kullanici">
+    <Key>
+      <PropertyRef Name="KullaniciID" />
+    </Key>
+    <Property Name="KullaniciID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KullaniciAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Sifre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Rol" Type="Int32" />
+    <NavigationProperty Name="Calisan" Relationship="Self.FK_Calisan_Kullanici" FromRole="Kullanici" ToRole="Calisan" />
+    <NavigationProperty Name="Musteriler" Relationship="Self.FK_Musteriler_Kullanici" FromRole="Kullanici" ToRole="Musteriler" />
+    <NavigationProperty Name="Yonetim" Relationship="Self.FK_Yonetim_Kullanici" FromRole="Kullanici" ToRole="Yonetim" />
+  </EntityType>
+  <EntityType Name="Musteriler">
+    <Key>
+      <PropertyRef Name="MusteriID" />
+    </Key>
+    <Property Name="MusteriID" Type="Int32" Nullable="false" />
+    <Property Name="Ad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Telefon" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Kullanici" Relationship="Self.FK_Musteriler_Kullanici" FromRole="Musteriler" ToRole="Kullanici" />
+    <NavigationProperty Name="Siparisler" Relationship="Self.FK_Siparisler_Musteriler" FromRole="Musteriler" ToRole="Siparisler" />
+  </EntityType>
+  <EntityType Name="Siparisler">
+    <Key>
+      <PropertyRef Name="SiparisID" />
+    </Key>
+    <Property Name="SiparisID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MusteriID" Type="Int32" />
+    <Property Name="UrunID" Type="Int32" />
+    <Property Name="TedarikciID" Type="Int32" />
+    <Property Name="Miktar" Type="Int32" />
+    <Property Name="Tarih" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Musteriler" Relationship="Self.FK_Siparisler_Musteriler" FromRole="Siparisler" ToRole="Musteriler" />
+    <NavigationProperty Name="Tedarikci" Relationship="Self.FK_Siparisler_Tedarikci" FromRole="Siparisler" ToRole="Tedarikci" />
+    <NavigationProperty Name="Urunler" Relationship="Self.FK_Siparisler_Urunler" FromRole="Siparisler" ToRole="Urunler" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Tedarikci">
+    <Key>
+      <PropertyRef Name="TedarikciID" />
+    </Key>
+    <Property Name="TedarikciID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ad" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Telefon" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Siparisler" Relationship="Self.FK_Siparisler_Tedarikci" FromRole="Tedarikci" ToRole="Siparisler" />
+  </EntityType>
+  <EntityType Name="Urunler">
+    <Key>
+      <PropertyRef Name="UrunID" />
+    </Key>
+    <Property Name="UrunID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ad" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Fiyat" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="StokMiktari" Type="Int32" />
+    <NavigationProperty Name="Siparisler" Relationship="Self.FK_Siparisler_Urunler" FromRole="Urunler" ToRole="Siparisler" />
+  </EntityType>
+  <EntityType Name="Yonetim">
+    <Key>
+      <PropertyRef Name="YonetimID" />
+    </Key>
+    <Property Name="YonetimID" Type="Int32" Nullable="false" />
+    <Property Name="Ad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Pozisyon" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Kullanici" Relationship="Self.FK_Yonetim_Kullanici" FromRole="Yonetim" ToRole="Kullanici" />
+  </EntityType>
+  <Association Name="FK_Calisan_Kullanici">
+    <End Role="Kullanici" Type="Self.Kullanici" Multiplicity="1" />
+    <End Role="Calisan" Type="Self.Calisan" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanici">
+        <PropertyRef Name="KullaniciID" />
+      </Principal>
+      <Dependent Role="Calisan">
+        <PropertyRef Name="CalisanID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Musteriler_Kullanici">
+    <End Role="Kullanici" Type="Self.Kullanici" Multiplicity="1" />
+    <End Role="Musteriler" Type="Self.Musteriler" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanici">
+        <PropertyRef Name="KullaniciID" />
+      </Principal>
+      <Dependent Role="Musteriler">
+        <PropertyRef Name="MusteriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Yonetim_Kullanici">
+    <End Role="Kullanici" Type="Self.Kullanici" Multiplicity="1" />
+    <End Role="Yonetim" Type="Self.Yonetim" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanici">
+        <PropertyRef Name="KullaniciID" />
+      </Principal>
+      <Dependent Role="Yonetim">
+        <PropertyRef Name="YonetimID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Siparisler_Musteriler">
+    <End Role="Musteriler" Type="Self.Musteriler" Multiplicity="0..1" />
+    <End Role="Siparisler" Type="Self.Siparisler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Musteriler">
+        <PropertyRef Name="MusteriID" />
+      </Principal>
+      <Dependent Role="Siparisler">
+        <PropertyRef Name="MusteriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Siparisler_Tedarikci">
+    <End Role="Tedarikci" Type="Self.Tedarikci" Multiplicity="0..1" />
+    <End Role="Siparisler" Type="Self.Siparisler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tedarikci">
+        <PropertyRef Name="TedarikciID" />
+      </Principal>
+      <Dependent Role="Siparisler">
+        <PropertyRef Name="TedarikciID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Siparisler_Urunler">
+    <End Role="Urunler" Type="Self.Urunler" Multiplicity="0..1" />
+    <End Role="Siparisler" Type="Self.Siparisler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Urunler">
+        <PropertyRef Name="UrunID" />
+      </Principal>
+      <Dependent Role="Siparisler">
+        <PropertyRef Name="UrunID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="deneme34Entities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Calisan" EntityType="Self.Calisan" />
+    <EntitySet Name="Kullanici" EntityType="Self.Kullanici" />
+    <EntitySet Name="Musteriler" EntityType="Self.Musteriler" />
+    <EntitySet Name="Siparisler" EntityType="Self.Siparisler" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Tedarikci" EntityType="Self.Tedarikci" />
+    <EntitySet Name="Urunler" EntityType="Self.Urunler" />
+    <EntitySet Name="Yonetim" EntityType="Self.Yonetim" />
+    <AssociationSet Name="FK_Calisan_Kullanici" Association="Self.FK_Calisan_Kullanici">
+      <End Role="Kullanici" EntitySet="Kullanici" />
+      <End Role="Calisan" EntitySet="Calisan" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Musteriler_Kullanici" Association="Self.FK_Musteriler_Kullanici">
+      <End Role="Kullanici" EntitySet="Kullanici" />
+      <End Role="Musteriler" EntitySet="Musteriler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Yonetim_Kullanici" Association="Self.FK_Yonetim_Kullanici">
+      <End Role="Kullanici" EntitySet="Kullanici" />
+      <End Role="Yonetim" EntitySet="Yonetim" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Siparisler_Musteriler" Association="Self.FK_Siparisler_Musteriler">
+      <End Role="Musteriler" EntitySet="Musteriler" />
+      <End Role="Siparisler" EntitySet="Siparisler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Siparisler_Tedarikci" Association="Self.FK_Siparisler_Tedarikci">
+      <End Role="Tedarikci" EntitySet="Tedarikci" />
+      <End Role="Siparisler" EntitySet="Siparisler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Siparisler_Urunler" Association="Self.FK_Siparisler_Urunler">
+      <End Role="Urunler" EntitySet="Urunler" />
+      <End Role="Siparisler" EntitySet="Siparisler" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

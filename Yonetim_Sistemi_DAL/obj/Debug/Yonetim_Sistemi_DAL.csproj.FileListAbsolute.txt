@@ -1,0 +1,48 @@
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\Yonetim_Sistemi_DAL\bin\Debug\Yonetim_Sistemi_DAL.dll.config
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\Yonetim_Sistemi_DAL\bin\Debug\Yonetim_Sistemi_DAL.dll
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\Yonetim_Sistemi_DAL\bin\Debug\Yonetim_Sistemi_DAL.pdb
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\Yonetim_Sistemi_DAL\bin\Debug\EntityFramework.dll
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\Yonetim_Sistemi_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\Yonetim_Sistemi_DAL\bin\Debug\EntityFramework.xml
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\Yonetim_Sistemi_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\Yonetim_Sistemi_DAL\obj\Debug\Yonetim_Sistemi_DAL.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\Yonetim_Sistemi_DAL\obj\Debug\Yonetim_Sistemi_DAL.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\Yonetim_Sistemi_DAL\obj\Debug\Yonetim_.1404DD7B.Up2Date
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\Yonetim_Sistemi_DAL\obj\Debug\Yonetim_Sistemi_DAL.dll
+C:\Users\pc\Downloads\Compressed\Yeni_WinRAR_ZIP_arsivi_3\c# dosya\YönetimSistemi\Yonetim_Sistemi_DAL\obj\Debug\Yonetim_Sistemi_DAL.pdb
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\Yonetim_Sistemi_DAL\bin\Debug\Yonetim_Sistemi_DAL.dll.config
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\Yonetim_Sistemi_DAL\bin\Debug\Yonetim_Sistemi_DAL.dll
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\Yonetim_Sistemi_DAL\bin\Debug\Yonetim_Sistemi_DAL.pdb
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\Yonetim_Sistemi_DAL\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\Yonetim_Sistemi_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\Yonetim_Sistemi_DAL\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\Yonetim_Sistemi_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\Yonetim_Sistemi_DAL\obj\Debug\Yonetim_Sistemi_DAL.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\Yonetim_Sistemi_DAL\obj\Debug\Yonetim_Sistemi_DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\Yonetim_Sistemi_DAL\obj\Debug\Yonetim_Sistemi_DAL.csproj.CopyComplete
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\Yonetim_Sistemi_DAL\obj\Debug\Yonetim_Sistemi_DAL.dll
+C:\Users\hp\Desktop\bitirdin bizi be\YönetimSistemi\Yonetim_Sistemi_DAL\obj\Debug\Yonetim_Sistemi_DAL.pdb
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\bin\Debug\Yonetim_Sistemi_DAL.dll.config
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\bin\Debug\Yonetim_Sistemi_DAL.dll
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\bin\Debug\Yonetim_Sistemi_DAL.pdb
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\bin\Debug\EntityFramework.dll
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\bin\Debug\EntityFramework.xml
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\obj\Debug\Yonetim_Sistemi_DAL.csproj.AssemblyReference.cache
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\obj\Debug\Yonetim_Sistemi_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\obj\Debug\Yonetim_.1404DD7B.Up2Date
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\obj\Debug\Yonetim_Sistemi_DAL.dll
+C:\Users\Arda\Desktop\eksikler\bitirdin bizi be\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\obj\Debug\Yonetim_Sistemi_DAL.pdb
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\bin\Debug\Yonetim_Sistemi_DAL.dll.config
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\bin\Debug\Yonetim_Sistemi_DAL.dll
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\bin\Debug\Yonetim_Sistemi_DAL.pdb
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\bin\Debug\EntityFramework.dll
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\bin\Debug\EntityFramework.xml
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\obj\Debug\Yonetim_Sistemi_DAL.csproj.AssemblyReference.cache
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\obj\Debug\Yonetim_Sistemi_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\obj\Debug\Yonetim_.1404DD7B.Up2Date
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\obj\Debug\Yonetim_Sistemi_DAL.dll
+C:\Users\Arda\Desktop\eksikler\Yonetim\YönetimSistemi\Yonetim-Sistemi\Yonetim_Sistemi_DAL\obj\Debug\Yonetim_Sistemi_DAL.pdb
